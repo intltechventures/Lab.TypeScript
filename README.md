@@ -8,11 +8,23 @@ A repository that serves as my lab for exploring the TypeScript langauge
 - https://www.npmjs.com/package/typescript
 
 - https://www.typescriptlang.org/
-  + https://www.typescriptlang.org/docs/home.html
+  + https://www.typescriptlang.org/docs/
+  + https://www.typescriptlang.org/docs/handbook/intro.html
+  
 
 - https://github.com/microsoft/TypeScript
   + https://github.com/Microsoft/TypeScript-Handbook
   + https://github.com/microsoft/TypeScript/blob/master/doc/spec.md
+
+## Installation
+
+- Using npm
+  + ```npm install typescript --save-dev```
+
+
+- Visual Studio Extension
+  + https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.typescript-57 
+  + ```Extensions > Manage Extensions``` in Visual Studio.
 
 
 ## Learning Resources & Tutorials
@@ -47,7 +59,6 @@ A repository that serves as my lab for exploring the TypeScript langauge
 - https://devopedia.org/typescript
 
 
-### 2019
 
 
 
